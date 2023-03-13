@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Wish Item</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Wish Item</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-13 12:11:02</sys_created_on>
+        <sys_id>8f70c8fd2fe169106e34dc1a2799b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish Item</sys_name>
+        <sys_package display_value="Wish List" source="x_980345_wish_list">8a3f776d2fa169106e34dc1a2799b61a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">8a3f776d2fa169106e34dc1a2799b61a</sys_scope>
+        <sys_update_name>sys_wizard_answer_8f70c8fd2fe169106e34dc1a2799b604</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-13 12:11:02</sys_updated_on>
+        <table/>
+        <target_url>x_980345_wish_list_wish_item.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
